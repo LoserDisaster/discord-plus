@@ -1,0 +1,48 @@
+/**
+ * @name blood red
+ * @author Gibbu#1211
+ * @version 2.0.0
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+ * @invite ZHthyCw
+ * @donate https://paypal.me/IanRGibson
+ * @website https://gibbu.me
+ * @authorId 174868361040232448
+*/
+
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/d5vjtT9.gif');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-modal-image: url('https://i.imgur.com/X5oAf5w.jpg');
+  --popout-modal-blur: 0px;
+  --popout-modal-size: contain;
+  --popout-modal-position: center;
+  --home-button-image: url('https://cdn.discordapp.com/attachments/856662980195385354/859990385064542239/SINIZSTER.png');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.54;
+  --left-brightness: 0.84;
+  --middle-brightness: 0.76;
+  --right-brightness: 0.26;
+  --popout-modal-brightness: 0.6;
+  --gradient-primary: 0,0,0;
+  --gradient-secondary: 94,7,7;
+  --link-colour: #B00202;
+  --scrollbar-colour: rgb(88,0,0,1);
+  --gradient-direction: 269deg;
+  --tint-colour: 102,0,0;
+  --tint-brightness: 0.12;
+  --font: Whitney;
+  --window-padding: 17px;
+  --window-roundness: 15px;
+  --update-notice-1: none;
+}
+
+/* Any custom CSS below here */
+
+
